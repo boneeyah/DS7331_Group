@@ -1,7 +1,7 @@
 # DS7331-Group-Project-
 Github repository for DS7331 Group.
 
-## Team Members![Github] (https://img.shields.io/badge/Contributors-3-green)
+## Team Members ![Github](https://img.shields.io/badge/Contributors-3-green)
 Miguel Bonilla, Zachary Bunn, Jason McDonald
 
 ## Contents
