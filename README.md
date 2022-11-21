@@ -9,3 +9,4 @@ Miguel Bonilla, Zachary Bunn, Jason McDonald
 * [Lab 1 - Jupyter Notebook](https://github.com/boneeyah/DS7331_Group/blob/main/Lab1.ipynb)
 * [Mini Lab 1 - Jupyter Notebook](https://github.com/boneeyah/DS7331_Group/blob/main/MiniLab1.ipynb)
 * [Lab 2 - Jupyter Notebook](https://github.com/boneeyah/DS7331_Group/blob/main/Lab2.ipynb)
+* [Lab 3 - Jupyter Notebook](https://github.com/boneeyah/DS7331_Group/blob/main/Lab3.ipynb)
